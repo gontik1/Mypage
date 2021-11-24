@@ -83,11 +83,11 @@ a:visited {
 }
 
 .bg-green {
-    background: #e5ffe7;
+    background: #fff9dc;
+    margin-bottom: 20px;
+    max-width: 100%;
 }
-.bg-red {
-    background: #ffe5e5;
-}
+
 .card {
     padding: 12px 20px;
     margin-bottom: 20px;
@@ -110,6 +110,9 @@ a:visited {
 caption {
     padding-top: 40px ;
     padding-bottom: 30px;
+}
+h2 {
+    text-align: center;
 }
 li {
     margin: 10px 0px;
